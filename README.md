@@ -10,11 +10,6 @@ VisionEdge is a powerful Android application that demonstrates real-time compute
 - **High Performance** - Optimized OpenCV processing with OpenGL ES rendering
 - **Material Design UI** - Clean, modern interface with Material Components
 
-## 📱 Screenshots
-
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Home Screen &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Raw Camera View &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Edge Detection View
-<img src="images/Main.jpg" height=500> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/Pro.jpg" height=500> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="images/Edge.jpg" height=500>
-
 ## 🛠️ Technical Stack
 
 - **Language**: Java
@@ -134,7 +129,6 @@ VisionEdge/
 │   │   └── test/                          # Unit tests
 │   └── build.gradle
 ├── gradle/
-├── images/                                # Screenshots
 ├── build.gradle
 ├── settings.gradle
 └── README.md
@@ -190,3 +184,4 @@ For issues, questions, or suggestions:
 ---
 
 **Made with ❤️ using OpenCV and Android**
+# VisionEdge
