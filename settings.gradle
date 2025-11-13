@@ -6,6 +6,6 @@ dependencyResolutionManagement {
         jcenter()
     }
 }
-rootProject.name = "CompVis"
+rootProject.name = "VisionEdge"
 include ':app'
 include(':sdk')
