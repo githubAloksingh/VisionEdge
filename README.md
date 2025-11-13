@@ -40,7 +40,7 @@ Before you begin, ensure you have the following installed:
 - Git
 - Android device with camera (or emulator with camera support)
 
-### Installation Steps
+### Installation Steps 
 
 1. **Clone the repository**
    ```bash
