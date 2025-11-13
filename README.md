@@ -10,6 +10,16 @@ VisionEdge is a powerful Android application that demonstrates real-time compute
 - **High Performance** - Optimized OpenCV processing with OpenGL ES rendering
 - **Material Design UI** - Clean, modern interface with Material Components
 
+## 📱 Screenshots
+
+<p align="center">
+  <img src="images/Pro.jpg" width="300" alt="Raw Camera View"/>
+  <img src="images/Edge.jpg" width="300" alt="Edge Detection View"/>
+</p>
+<p align="center">
+  <i>Left: Raw camera feed | Right: Real-time edge detection</i>
+</p>
+
 ## 🛠️ Technical Stack
 
 - **Language**: Java
@@ -129,6 +139,7 @@ VisionEdge/
 │   │   └── test/                          # Unit tests
 │   └── build.gradle
 ├── gradle/
+├── images/                                # App screenshots
 ├── build.gradle
 ├── settings.gradle
 └── README.md
@@ -164,9 +175,10 @@ Contributions are welcome! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Developer
+## 👨‍💻 Author
 
-Created and maintained by [Your Name]
+Developed by **Your Name**  
+GitHub: [@yourusername](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
@@ -175,15 +187,19 @@ Created and maintained by [Your Name]
 - [Material Components](https://material.io/components) - Material Design UI components
 - [OpenGL ES](https://www.khronos.org/opengles/) - 3D graphics rendering
 
-## 📞 Support
+## 📞 Contact & Support
 
-For issues, questions, or suggestions:
-- Open an issue on [GitHub Issues](https://github.com/yourusername/VisionEdge/issues)
-- Email: your.email@example.com
+- 📫 **Issues**: [GitHub Issues](https://github.com/yourusername/VisionEdge/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/VisionEdge/discussions)
+- 📧 **Email**: your.email@example.com
 
 ---
 
-**Made with ❤️ using OpenCV and Android**
+<p align="center">
+  <b>⭐ Star this repo if you find it useful!</b><br>
+  Made with ❤️ using OpenCV and Android
+</p>
+# VisionEdge
 # VisionEdge
 # VisionEdge
 # VisionEdge
