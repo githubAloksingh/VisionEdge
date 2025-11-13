@@ -1,4 +1,4 @@
-package com.example.compvis;
+package com.visionedge.detector;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.compvis", appContext.getPackageName());
+        assertEquals("com.visionedge.detector", appContext.getPackageName());
     }
 }

@@ -1,4 +1,4 @@
-package com.example.compvis;
+package com.visionedge.detector;
 
 import org.junit.Test;
 
