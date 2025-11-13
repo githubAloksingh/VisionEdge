@@ -185,3 +185,4 @@ For issues, questions, or suggestions:
 
 **Made with ❤️ using OpenCV and Android**
 # VisionEdge
+# VisionEdge
